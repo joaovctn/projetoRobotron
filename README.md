@@ -1,2 +1,1 @@
-# projetoRobotron
-Projeto feito durante o curso de JavaScrip.
+# robotron-2000
